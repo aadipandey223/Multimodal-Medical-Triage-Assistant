@@ -168,6 +168,20 @@ graph TD
 
 ---
 
+## 📸 Screenshots & Usage Demos
+
+Below are real examples of Dr. AI in action:
+
+| **Dr. AI Interface** | **Medical Diagnosis Example** |
+| :---: | :---: |
+| ![Interface](assets/demo_1.png) | ![Diagnosis](assets/demo_2.png) |
+
+| **Visual Analysis** | **Emergency Protocol** |
+| :---: | :---: |
+| ![Analysis](assets/demo_3.png) | ![Emergency](assets/demo_4.png) |
+
+---
+
 ## ⚠️ Disclaimer
 
 > **Educational & Research Use Only**
